@@ -1,6 +1,9 @@
 # 💫 About Me:
 Name: Siripong Phiwkhaw<br>Nickname:Nut<br>Birthday:20/06/2002<br>Hobby:play game and reading book<br>
 
+# Education:
+King Mongkut’s University of Technology Thonburi (KMUTT),School of Information Technology
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srpnpk) 
